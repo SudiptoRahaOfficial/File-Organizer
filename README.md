@@ -41,7 +41,7 @@ npm install
 
 ## Usage
 
-Run the application:
+Put all your garbage files into clutters folder & Run the application:
 
 ```bash
 node app.js
@@ -54,7 +54,7 @@ The program will scan the target directory and organize files into folders based
 Before:
 
 ```text
-Downloads/
+clutters/
 ├── image.jpg
 ├── document.pdf
 ├── notes.txt
@@ -64,7 +64,7 @@ Downloads/
 After:
 
 ```text
-Downloads/
+organized/
 ├── Images/
 │   └── image.jpg
 ├── Documents/
