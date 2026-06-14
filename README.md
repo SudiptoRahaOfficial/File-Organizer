@@ -19,23 +19,12 @@ File Organizer helps clean up cluttered directories by scanning files and moving
 * File System (fs) Module
 * Path Module
 
-## Project Structure
-
-```text
-File-Organizer/
-│
-├── src/
-├── organized_files/
-├── package.json
-└── README.md
-```
-
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/File-Organizer.git
+git clone git@github.com:SudiptoRahaOfficial/File-Organizer.git
 ```
 
 2. Navigate to the project directory:
