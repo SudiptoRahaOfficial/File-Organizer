@@ -69,7 +69,7 @@ organized/
 │   └── image.jpg
 ├── pdf/
 │   ├── document.pdf
-│   └── notes.txt
+│   └── notes.pdf
 └── mp4/
     └── video.mp4
 ```
