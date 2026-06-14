@@ -65,12 +65,12 @@ After:
 
 ```text
 organized/
-├── Images/
+├── jpg/
 │   └── image.jpg
-├── Documents/
+├── pdf/
 │   ├── document.pdf
 │   └── notes.txt
-└── Videos/
+└── mp4/
     └── video.mp4
 ```
 
